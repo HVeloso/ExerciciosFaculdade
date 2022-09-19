@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663444244 source:c:\users\lenovo\desktop\cpf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1663545356 source:c:\users\lenovo\desktop\estudo\c\exercicio cpf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
